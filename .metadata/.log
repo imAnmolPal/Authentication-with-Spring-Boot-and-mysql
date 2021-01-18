@@ -1093,3 +1093,21 @@ Contains: Missing mysql:mysql-connector-java:jar:javadoc:5.1.6
 !MESSAGE Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:5.1.6
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2021-01-17 22:56:55.496
 !MESSAGE Missing mysql:mysql-connector-java:jar:javadoc:5.1.6
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.079
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.114
+!MESSAGE System property http.proxyPort is set to 64529 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.114
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.115
+!MESSAGE System property https.proxyPort is set to 64529 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.115
+!MESSAGE System property socksProxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2021-01-18 10:06:43.116
+!MESSAGE System property socksProxyPort is set to 64528 but should not be set.

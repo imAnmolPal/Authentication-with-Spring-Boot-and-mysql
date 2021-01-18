@@ -24,10 +24,10 @@ public class UserRepositoryTests {
     @Test
     public void testCreateUser() {
     	User user = new User();
-    	user.setEmail("anmolpal1999@gmail.com");
-    	user.setPassword("indore123");
-    	user.setFirstName("Anmol");
-    	user.setLastName("Pal");
+    	user.setEmail("jasmeet@gmail.com");
+    	user.setPassword("juniindore123");
+    	user.setFirstName("Jasmeet");
+    	user.setLastName("Tuteja");
     	
     	User savedUser = repo.save(user);
 //    	User existUser = entityManager.find(User.class, savedUser.getId());
