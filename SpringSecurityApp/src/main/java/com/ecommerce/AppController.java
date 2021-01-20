@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class AppController {
 
-	@Autowired
-	private UserRepository userRepo;
+	
+//	private UserRepository userRepo; @Autowired
 	@GetMapping("")
 	public String viewHomePage() {
 		return "index";
