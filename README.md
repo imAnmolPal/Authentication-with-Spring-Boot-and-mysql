@@ -22,5 +22,4 @@ Code Repository Interface
 //............//
 
 # Step :
-Code Repository Interface
 Spring MVC Controller Class
