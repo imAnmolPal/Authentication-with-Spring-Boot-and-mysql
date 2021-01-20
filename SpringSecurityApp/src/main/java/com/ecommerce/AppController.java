@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class AppController {
-
 	
 //	private UserRepository userRepo; @Autowired
 	@GetMapping("")
