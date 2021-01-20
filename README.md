@@ -21,5 +21,11 @@ Code Repository Interface
 
 //............//
 
-# Step :
+# Step 3:
+Code and Run Unit Test
+
+# Step 4:
 Spring MVC Controller Class
+
+# Step 5:
+Home Page
