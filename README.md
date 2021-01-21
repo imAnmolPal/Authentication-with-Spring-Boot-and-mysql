@@ -32,7 +32,7 @@ Home Page
 
 # Step 6
 User Registration Form
-
+Login
 # step 7
 Handling User Registration
 
