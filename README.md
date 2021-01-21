@@ -32,3 +32,9 @@ Home Page
 
 # Step 6
 User Registration Form
+
+# step 7
+Handling User Registration
+
+# step 8
+Custom UserDetails
