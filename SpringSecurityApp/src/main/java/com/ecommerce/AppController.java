@@ -34,4 +34,13 @@ public class AppController {
 	     
 	    return "register_success";
 	}
+	
+	@GetMapping("/list_users")
+//	public String viewUsersList(Model model) {
+	public String viewUsersList() {
+//	    List<User> listUsers = userRepo.findAll();
+//	    model.addAttribute("listUsers", listUsers);
+	     
+	    return "users";
+	}
 }
