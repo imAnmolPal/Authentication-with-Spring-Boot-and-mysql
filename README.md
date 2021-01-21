@@ -18,3 +18,14 @@ eg: @GeneratedValue(strategy = GenerationType.IDENTITY)
 
 # Step 2:
 Code Repository Interface
+
+//............//
+
+# Step 3:
+Code and Run Unit Test
+
+# Step 4:
+Spring MVC Controller Class
+
+# Step 5:
+Home Page
