@@ -1865,3 +1865,108 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-01-21 23:24:55.786
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:35:55.194
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:35:55.211
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d9798c9[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:35:55.253
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:35:55.391
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.328
+!MESSAGE Boot LS startup time from start to initialized: 11059ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.833
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MpTrHpqIisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.904
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.931
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.932
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.933
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:06.935
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MpTrHpqI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:07.164
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:07.177
+!MESSAGE buffering callback sts4.classpath.MpTrHpqI SpringSecurityApp false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:07.178
+!MESSAGE executing callback sts4.classpath.MpTrHpqI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-21 23:36:07.254
+!MESSAGE executing callback sts4.classpath.MpTrHpqI SUCCESS [done]
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.351
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.352
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.353
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.355
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.358
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.359
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.361
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.362
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.363
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:38:02.364
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.539
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.567
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.568
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.568
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.569
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.570
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.571
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.573
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.575
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-01-21 23:49:19.576
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
