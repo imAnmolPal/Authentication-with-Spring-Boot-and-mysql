@@ -29,3 +29,6 @@ Spring MVC Controller Class
 
 # Step 5:
 Home Page
+
+# Step 6
+User Registration Form
