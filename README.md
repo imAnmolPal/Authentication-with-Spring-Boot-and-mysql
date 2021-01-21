@@ -32,9 +32,15 @@ Home Page
 
 # Step 6
 User Registration Form
-
+Login
 # step 7
 Handling User Registration
 
 # step 8
 Custom UserDetails
+
+# Step 9
+Configure Spring Security for Authentication 
+
+# step 10
+Users list page
