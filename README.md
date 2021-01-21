@@ -38,3 +38,6 @@ Handling User Registration
 
 # step 8
 Custom UserDetails
+
+# Step 9
+Configure Spring Security for Authentication 
